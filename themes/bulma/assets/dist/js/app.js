@@ -90,10 +90,38 @@
 /*!*******************************************!*\
   !*** ./themes/bulma/assets/src/js/app.js ***!
   \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _header__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./header */ "./themes/bulma/assets/src/js/header.js");
+ //import header function to open menu on mobile
 
+Object(_header__WEBPACK_IMPORTED_MODULE_0__["default"])(); //init header function
+
+/***/ }),
+
+/***/ "./themes/bulma/assets/src/js/header.js":
+/*!**********************************************!*\
+  !*** ./themes/bulma/assets/src/js/header.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* Check https://bulma.io/documentation/components/navbar/ */
+/* harmony default export */ __webpack_exports__["default"] = (function (header) {
+  $(document).ready(function () {
+    // Check for click events on the navbar burger icon
+    $(".navbar-burger").click(function () {
+      // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+    });
+  });
+});
 
 /***/ }),
 
