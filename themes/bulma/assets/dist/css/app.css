@@ -11323,3 +11323,9 @@ label.panel-block:hover {
   padding: 40px;
 }
 
+@media screen and (max-width: 769px) {
+  .documentation .media-content {
+    padding-top: 50px;
+  }
+}
+
