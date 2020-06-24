@@ -1,8 +1,8 @@
 {
     "/dist/js/app.js": "/dist/js/app.js",
     "/dist/css/app.css": "/dist/css/app.css",
-    "/img/bulma.png": "/img/bulma.png",
     "/img/npm.png": "/img/npm.png",
-    "/img/october.png": "/img/october.png",
-    "/img/webpack.png": "/img/webpack.png"
+    "/img/bulma.png": "/img/bulma.png",
+    "/img/webpack.png": "/img/webpack.png",
+    "/img/october.png": "/img/october.png"
 }

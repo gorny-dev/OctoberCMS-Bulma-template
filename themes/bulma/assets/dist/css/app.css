@@ -11315,3 +11315,11 @@ label.panel-block:hover {
   background: #252627 !important;
 }
 
+.footer {
+  padding: 35px;
+}
+
+.documentation {
+  padding: 40px;
+}
+
