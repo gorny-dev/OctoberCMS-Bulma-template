@@ -1,8 +1,13 @@
 {
     "/dist/js/app.js": "/dist/js/app.js",
     "/dist/css/app.css": "/dist/css/app.css",
-    "/img/npm.png": "/img/npm.png",
-    "/img/bulma.png": "/img/bulma.png",
-    "/img/webpack.png": "/img/webpack.png",
-    "/img/october.png": "/img/october.png"
+    "/img/baloon.svg": "/img/baloon.svg",
+    "/img/favicon.png": "/img/favicon.png",
+    "/img/logo.svg": "/img/logo.svg",
+    "/img/header-shape.svg": "/img/header-shape.svg",
+    "/img/call-to-action.png": "/img/call-to-action.png",
+    "/img/header-bg.jpg": "/img/header-bg.jpg",
+    "/img/flower.svg": "/img/flower.svg",
+    "/img/services.png": "/img/services.png",
+    "/img/logo.png": "/img/logo.png"
 }

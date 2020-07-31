@@ -1,6 +1,3 @@
-@import "bulma-config"; //Bulma configuration file
-@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"; //todo: install font-awesome as a package
-@import "components/home";
-@import "components/header";
-@import "components/footer";
-@import "components/docs";
+@import "theme/theme";
+
+@import "components/header/header";

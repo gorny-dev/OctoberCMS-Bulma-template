@@ -143,8 +143,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\xampp\htdocs\octobercms-bulma-template\themes\bulma\assets\src\js\app.js */"./themes/bulma/assets/src/js/app.js");
-module.exports = __webpack_require__(/*! D:\xampp\htdocs\octobercms-bulma-template\themes\bulma\assets\src\scss\app.scss */"./themes/bulma/assets/src/scss/app.scss");
+__webpack_require__(/*! /var/www/html/streetball/themes/bulma/assets/src/js/app.js */"./themes/bulma/assets/src/js/app.js");
+module.exports = __webpack_require__(/*! /var/www/html/streetball/themes/bulma/assets/src/scss/app.scss */"./themes/bulma/assets/src/scss/app.scss");
 
 
 /***/ })
